@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yalumappix/yalumappix/main/assets/yalum-pixel-world.svg" width="100%" alt="YALUM — univers pixel art" />
+<img src="https://raw.githubusercontent.com/appix-studio/appix-studio/main/assets/yalum-pixel-world.svg" width="100%" alt="YALUM — univers pixel art" />
 
 <a href="https://github.com/yalumappix/APPIX"><img src="https://img.shields.io/badge/DÉCOUVRIR-APPIX-64FFBD?style=for-the-badge&labelColor=07111B" alt="Découvrir APPIX" /></a>
 <a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/ME_TROUVER-MALT-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Mon profil Malt" /></a>
