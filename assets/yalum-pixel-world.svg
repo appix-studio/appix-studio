@@ -1,57 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-<title id="title">APPIX Studio — Des sites web qui prennent vie</title>
-<desc id="desc">Bannière inspirée du vrai site APPIX : fond encre, typographie éditoriale, citron vert, corail et aperçu d'une page web avec ses interfaces et son code.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16180F"/><stop offset="1" stop-color="#24271B"/></linearGradient>
-  <radialGradient id="orb" cx="32%" cy="24%" r="76%"><stop stop-color="#F4FFC9"/><stop offset=".28" stop-color="#C9F06B"/><stop offset=".68" stop-color="#9CB84F"/><stop offset="1" stop-color="#596A2F"/></radialGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#F7F5F0" stroke-opacity=".055"/></pattern>
-  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".32"/></filter>
-  <clipPath id="clip"><rect width="1280" height="420" rx="18"/></clipPath>
-</defs>
-<g clip-path="url(#clip)">
-<rect width="1280" height="420" fill="url(#bg)"/><rect width="1280" height="420" fill="url(#grid)"/>
-<path d="M0 360C220 310 350 460 570 390S950 290 1280 365V420H0Z" fill="#C9F06B" opacity=".045"/>
-<circle cx="1025" cy="205" r="202" fill="#C9F06B" opacity=".045"/>
-<circle cx="1025" cy="205" r="164" fill="none" stroke="#F7F5F0" stroke-opacity=".2" stroke-dasharray="3 9"/>
-<circle cx="1025" cy="205" r="180" fill="none" stroke="#FF6B4A" stroke-width="2" stroke-dasharray="2 18"/>
-<g transform="translate(68 48)">
-  <text x="0" y="28" fill="#C9F06B" font-family="monospace" font-size="12" letter-spacing="3">STUDIO WEB INDÉPENDANT · FRANCE</text>
-  <text x="-4" y="154" fill="#F7F5F0" font-family="Arial,Helvetica,sans-serif" font-size="116" font-weight="800" letter-spacing="-10">APPIX</text>
-  <text x="333" y="91" fill="#FF6B4A" font-family="Arial,sans-serif" font-size="28">®</text>
-  <path d="M0 178H420" stroke="#F7F5F0" stroke-opacity=".24"/>
-  <text x="2" y="222" fill="#F7F5F0" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="-.8">Des sites web qui</text>
-  <text x="2" y="258" fill="#C9F06B" font-family="Georgia,serif" font-size="36" font-style="italic">prennent vie.</text>
-  <text x="2" y="315" fill="#B9BAAF" font-family="monospace" font-size="12" letter-spacing="2">DESIGN / CODE / MOTION / RESPONSIVE</text>
-</g>
-<!-- Aperçu du vrai langage visuel du site APPIX -->
-<g transform="translate(770 66) rotate(-7 130 95)" filter="url(#shadow)">
-  <rect width="270" height="190" rx="13" fill="#F7F5F0"/>
-  <path d="M0 34H270" stroke="#D9D7CD"/>
-  <circle cx="18" cy="17" r="4" fill="#FF6B4A"/><circle cx="33" cy="17" r="4" fill="#C9F06B"/><circle cx="48" cy="17" r="4" fill="#D9D7CD"/>
-  <rect x="17" y="49" width="236" height="126" rx="7" fill="#EAE8DE"/>
-  <text x="30" y="75" fill="#16180F" font-family="Arial,sans-serif" font-size="15" font-weight="800">Des sites web</text>
-  <text x="30" y="93" fill="#16180F" font-family="Georgia,serif" font-size="16" font-style="italic">qui prennent vie.</text>
-  <rect x="30" y="109" width="76" height="5" rx="2.5" fill="#9B9B8E"/><rect x="30" y="121" width="58" height="5" rx="2.5" fill="#9B9B8E"/>
-  <rect x="30" y="139" width="65" height="25" rx="12.5" fill="#C9F06B"/>
-  <rect x="150" y="61" width="88" height="96" rx="44" fill="#16180F"/>
-  <circle cx="194" cy="109" r="28" fill="url(#orb)"/>
-  <path d="M177 98Q189 79 207 93" fill="none" stroke="#F7F5F0" stroke-opacity=".8" stroke-width="5" stroke-linecap="round"/>
-</g>
-<g transform="translate(1000 275) rotate(5 100 52)" filter="url(#shadow)">
-  <rect width="208" height="112" rx="12" fill="#24271B" stroke="#F7F5F0" stroke-opacity=".22"/>
-  <circle cx="17" cy="17" r="3" fill="#FF6B4A"/><circle cx="29" cy="17" r="3" fill="#C9F06B"/><circle cx="41" cy="17" r="3" fill="#77796C"/>
-  <text x="17" y="48" fill="#C9F06B" font-family="monospace" font-size="12">&lt;section&gt;</text>
-  <text x="31" y="68" fill="#F7F5F0" font-family="monospace" font-size="12">build();</text>
-  <text x="17" y="89" fill="#C9F06B" font-family="monospace" font-size="12">&lt;/section&gt;</text>
-</g>
-<g transform="translate(700 300) rotate(-8)" filter="url(#shadow)">
-  <rect width="112" height="62" rx="10" fill="#FF6B4A"/>
-  <text x="56" y="41" text-anchor="middle" fill="#16180F" font-family="Arial,sans-serif" font-weight="800" font-size="27">Aa</text>
-</g>
-<g transform="translate(1135 63)">
-  <circle cx="26" cy="26" r="25" fill="#C9F06B"/>
-  <path d="M26 11V41M11 26H41M16 16L36 36M36 16L16 36" stroke="#16180F" stroke-width="2.5" stroke-linecap="round"/>
-</g>
-<path d="M670 82l7 17 17 7-17 7-7 17-7-17-17-7 17-7z" fill="#FF6B4A"/>
-<text x="1190" y="397" text-anchor="end" fill="#F7F5F0" fill-opacity=".42" font-family="monospace" font-size="10" letter-spacing="2">IMAGINÉ AVEC SOIN · APPIX STUDIO</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">APPIX Studio — portfolio de création web</title><desc id="desc">Univers visuel du site APPIX : fond encre, typographie éditoriale, sphère citron, fenêtres de navigateur et cartes projets.</desc>
+<defs><linearGradient id="ink" x2="1" y2="1"><stop stop-color="#16180F"/><stop offset="1" stop-color="#25291D"/></linearGradient><radialGradient id="orb" cx="30%" cy="25%" r="75%"><stop stop-color="#F6FFD8"/><stop offset=".32" stop-color="#C9F06B"/><stop offset=".72" stop-color="#91AD4C"/><stop offset="1" stop-color="#52632D"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#F7F5F0" stroke-opacity=".055"/></pattern><filter id="shadow" x="-30%" y="-30%" width="170%" height="180%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity=".34"/></filter><clipPath id="frame"><rect width="1280" height="440" rx="18"/></clipPath></defs>
+<g clip-path="url(#frame)"><rect width="1280" height="440" fill="url(#ink)"/><rect width="1280" height="440" fill="url(#grid)"/><path d="M0 370Q260 295 480 388T920 375T1280 340V440H0Z" fill="#C9F06B" opacity=".045"/>
+<g transform="translate(68 54)"><text fill="#C9F06B" font-family="monospace" font-size="12" letter-spacing="2.6">STUDIO WEB INDÉPENDANT · FRANCE</text><text y="132" fill="#F7F5F0" font-family="Arial,sans-serif" font-size="105" font-weight="800" letter-spacing="-9">Des sites</text><text y="224" fill="#F7F5F0" font-family="Arial,sans-serif" font-size="105" font-weight="800" letter-spacing="-9">web qui</text><text y="310" fill="#C9F06B" font-family="Georgia,serif" font-size="108" font-style="italic" letter-spacing="-5">prennent</text><text x="2" y="390" fill="#F7F5F0" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-4">vie.</text><text x="180" y="385" fill="#BFC1B5" font-family="monospace" font-size="11" letter-spacing="1.7">DESIGN · HTML/CSS · JAVASCRIPT</text></g>
+<circle cx="1000" cy="208" r="174" fill="none" stroke="#F7F5F0" stroke-opacity=".32" stroke-dasharray="3 9"/><circle cx="1000" cy="208" r="191" fill="none" stroke="#FF6B4A" stroke-opacity=".8" stroke-width="2" stroke-dasharray="2 16"/><circle cx="1000" cy="208" r="126" fill="url(#orb)"/><path d="M940 154Q978 112 1020 145" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="9" stroke-linecap="round"/>
+<g transform="translate(810 42) rotate(-7 126 82)" filter="url(#shadow)"><rect width="254" height="174" rx="12" fill="#F7F5F0"/><path d="M0 32H254" stroke="#D9D7CD"/><circle cx="17" cy="16" r="4" fill="#FF6B4A"/><circle cx="31" cy="16" r="4" fill="#C9F06B"/><circle cx="45" cy="16" r="4" fill="#D9D7CD"/><rect x="15" y="47" width="224" height="111" rx="6" fill="#EAE9E1"/><rect x="28" y="60" width="96" height="7" rx="3.5" fill="#16180F"/><rect x="28" y="76" width="75" height="5" rx="2.5" fill="#A5A69B"/><rect x="28" y="88" width="86" height="5" rx="2.5" fill="#A5A69B"/><rect x="28" y="108" width="67" height="23" rx="11.5" fill="#C9F06B"/><circle cx="185" cy="102" r="39" fill="#16180F"/><circle cx="185" cy="102" r="27" fill="url(#orb)"/></g>
+<g transform="translate(735 286) rotate(-4 95 62)" filter="url(#shadow)"><rect width="184" height="112" rx="10" fill="#E7E6DC"/><rect x="10" y="10" width="164" height="65" rx="5" fill="#C9D0B8"/><path d="M105 75V38Q105 15 130 15Q155 15 155 38V75" fill="#7F9170"/><text x="12" y="96" fill="#16180F" font-family="Arial,sans-serif" font-size="12" font-weight="700">Maison Veloria</text></g>
+<g transform="translate(947 300) rotate(5 94 58)" filter="url(#shadow)"><rect width="178" height="108" rx="10" fill="#F7F5F0"/><rect x="9" y="9" width="160" height="61" rx="5" fill="#B9AA91"/><text x="89" y="55" text-anchor="middle" fill="#F7F5F0" font-family="Georgia,serif" font-size="43" font-style="italic">Z</text><text x="12" y="91" fill="#16180F" font-family="Arial,sans-serif" font-size="12" font-weight="700">Zorvék · concept</text></g>
+<g transform="translate(1080 94)"><rect width="150" height="52" rx="26" fill="#C9F06B"/><text x="75" y="32" text-anchor="middle" fill="#16180F" font-family="monospace" font-size="11" font-weight="700">SITES SUR MESURE</text></g><g transform="translate(1090 169)"><rect width="140" height="48" rx="24" fill="#FF6B4A"/><text x="70" y="30" text-anchor="middle" fill="#16180F" font-family="monospace" font-size="11" font-weight="700">UX · RESPONSIVE</text></g>
+<path d="M690 80l7 17 17 7-17 7-7 17-7-17-17-7 17-7z" fill="#FF6B4A"/><text x="1210" y="425" text-anchor="end" fill="#F7F5F0" fill-opacity=".45" font-family="monospace" font-size="10" letter-spacing="2">APPIX STUDIO® · DESIGN / BUILD / IMPROVE</text></g></svg>
