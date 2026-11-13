@@ -1,17 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-<title id="title">APPIX Studio — Design, code et expériences web</title>
-<desc id="desc">Bannière éditoriale APPIX Studio, avec typographie expressive, sphère citron, fenêtres d'interface et détails de code sur fond encre.</desc>
+<title id="title">APPIX Studio — Des sites web qui prennent vie</title>
+<desc id="desc">Bannière inspirée du vrai site APPIX : fond encre, typographie éditoriale, citron vert, corail et aperçu d'une page web avec ses interfaces et son code.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16180F"/><stop offset="1" stop-color="#24271B"/></linearGradient>
   <radialGradient id="orb" cx="32%" cy="24%" r="76%"><stop stop-color="#F4FFC9"/><stop offset=".28" stop-color="#C9F06B"/><stop offset=".68" stop-color="#9CB84F"/><stop offset="1" stop-color="#596A2F"/></radialGradient>
-  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#F7F5F0" stroke-opacity=".055"/></pattern>
   <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".32"/></filter>
   <clipPath id="clip"><rect width="1280" height="420" rx="18"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
-<rect width="1280" height="420" fill="url(#bg)"/>
-<rect width="1280" height="420" fill="url(#grid)"/>
+<rect width="1280" height="420" fill="url(#bg)"/><rect width="1280" height="420" fill="url(#grid)"/>
 <path d="M0 360C220 310 350 460 570 390S950 290 1280 365V420H0Z" fill="#C9F06B" opacity=".045"/>
 <circle cx="1025" cy="205" r="202" fill="#C9F06B" opacity=".045"/>
 <circle cx="1025" cy="205" r="164" fill="none" stroke="#F7F5F0" stroke-opacity=".2" stroke-dasharray="3 9"/>
@@ -23,31 +21,29 @@
   <path d="M0 178H420" stroke="#F7F5F0" stroke-opacity=".24"/>
   <text x="2" y="222" fill="#F7F5F0" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="-.8">Des sites web qui</text>
   <text x="2" y="258" fill="#C9F06B" font-family="Georgia,serif" font-size="36" font-style="italic">prennent vie.</text>
-  <text x="2" y="315" fill="#B9BAAF" font-family="monospace" font-size="12" letter-spacing="2">DESIGN  /  CODE  /  MOTION  /  RESPONSIVE</text>
+  <text x="2" y="315" fill="#B9BAAF" font-family="monospace" font-size="12" letter-spacing="2">DESIGN / CODE / MOTION / RESPONSIVE</text>
 </g>
-<!-- browser window -->
+<!-- Aperçu du vrai langage visuel du site APPIX -->
 <g transform="translate(770 66) rotate(-7 130 95)" filter="url(#shadow)">
   <rect width="270" height="190" rx="13" fill="#F7F5F0"/>
   <path d="M0 34H270" stroke="#D9D7CD"/>
   <circle cx="18" cy="17" r="4" fill="#FF6B4A"/><circle cx="33" cy="17" r="4" fill="#C9F06B"/><circle cx="48" cy="17" r="4" fill="#D9D7CD"/>
   <rect x="17" y="49" width="236" height="126" rx="7" fill="#EAE8DE"/>
-  <rect x="30" y="62" width="102" height="8" rx="4" fill="#16180F"/>
-  <rect x="30" y="79" width="76" height="5" rx="2.5" fill="#9B9B8E"/>
-  <rect x="30" y="91" width="88" height="5" rx="2.5" fill="#9B9B8E"/>
-  <rect x="30" y="112" width="65" height="25" rx="12.5" fill="#C9F06B"/>
+  <text x="30" y="75" fill="#16180F" font-family="Arial,sans-serif" font-size="15" font-weight="800">Des sites web</text>
+  <text x="30" y="93" fill="#16180F" font-family="Georgia,serif" font-size="16" font-style="italic">qui prennent vie.</text>
+  <rect x="30" y="109" width="76" height="5" rx="2.5" fill="#9B9B8E"/><rect x="30" y="121" width="58" height="5" rx="2.5" fill="#9B9B8E"/>
+  <rect x="30" y="139" width="65" height="25" rx="12.5" fill="#C9F06B"/>
   <rect x="150" y="61" width="88" height="96" rx="44" fill="#16180F"/>
   <circle cx="194" cy="109" r="28" fill="url(#orb)"/>
-  <path d="M177 98Q189 79 207 93" fill="none" stroke="url(#shine)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M177 98Q189 79 207 93" fill="none" stroke="#F7F5F0" stroke-opacity=".8" stroke-width="5" stroke-linecap="round"/>
 </g>
-<!-- code card -->
 <g transform="translate(1000 275) rotate(5 100 52)" filter="url(#shadow)">
   <rect width="208" height="112" rx="12" fill="#24271B" stroke="#F7F5F0" stroke-opacity=".22"/>
   <circle cx="17" cy="17" r="3" fill="#FF6B4A"/><circle cx="29" cy="17" r="3" fill="#C9F06B"/><circle cx="41" cy="17" r="3" fill="#77796C"/>
-  <text x="17" y="48" fill="#C9F06B" font-family="monospace" font-size="12">&lt;design&gt;</text>
-  <text x="31" y="68" fill="#F7F5F0" font-family="monospace" font-size="12">build<span fill="#FF6B4A">()</span>;</text>
-  <text x="17" y="89" fill="#C9F06B" font-family="monospace" font-size="12">&lt;/design&gt;</text>
+  <text x="17" y="48" fill="#C9F06B" font-family="monospace" font-size="12">&lt;section&gt;</text>
+  <text x="31" y="68" fill="#F7F5F0" font-family="monospace" font-size="12">build();</text>
+  <text x="17" y="89" fill="#C9F06B" font-family="monospace" font-size="12">&lt;/section&gt;</text>
 </g>
-<!-- floating accent cards -->
 <g transform="translate(700 300) rotate(-8)" filter="url(#shadow)">
   <rect width="112" height="62" rx="10" fill="#FF6B4A"/>
   <text x="56" y="41" text-anchor="middle" fill="#16180F" font-family="Arial,sans-serif" font-weight="800" font-size="27">Aa</text>
@@ -58,5 +54,4 @@
 </g>
 <path d="M670 82l7 17 17 7-17 7-7 17-7-17-17-7 17-7z" fill="#FF6B4A"/>
 <text x="1190" y="397" text-anchor="end" fill="#F7F5F0" fill-opacity=".42" font-family="monospace" font-size="10" letter-spacing="2">IMAGINÉ AVEC SOIN · APPIX STUDIO</text>
-</g>
-</svg>
+</g></svg>
