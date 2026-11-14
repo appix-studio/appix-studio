@@ -1,109 +1,70 @@
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/appix-studio/appix-studio/main/assets/yalum-pixel-world.svg" width="100%" alt="APPIX Studio — design web, développement et création digitale" />
+<img src="https://raw.githubusercontent.com/appix-studio/appix-studio/main/assets/yalum-pixel-world.svg" width="100%" alt="APPIX Studio — création de sites web" />
 
-<a href="https://github.com/yalumappix/APPIX"><img src="https://img.shields.io/badge/DÉCOUVRIR-APPIX-64FFBD?style=for-the-badge&labelColor=07111B" alt="Découvrir APPIX" /></a>
-<a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/ME_TROUVER-MALT-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Mon profil Malt" /></a>
-<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0"><img src="https://img.shields.io/badge/ME_TROUVER-FREELANCE.COM-64FFBD?style=for-the-badge&labelColor=07111B" alt="Mon profil Freelance.com" /></a>
+<p><strong>Des sites clairs, soignés et adaptés à votre activité.</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=64FFBD&center=true&vCenter=true&width=700&lines=%3E+Je+donne+vie+aux+id%C3%A9es+sur+le+web.%3B%3E+Des+sites+modernes%2C+cr%C3%A9atifs+et+sur+mesure.%3B%3E+Imaginons%2C+construisons%2C+am%C3%A9liorons+ensemble." alt="Texte animé" />
+<a href="https://github.com/appix-studio/portfolio"><img src="https://img.shields.io/badge/VOIR-LE_PORTFOLIO-64FFBD?style=for-the-badge&labelColor=07111B" alt="Voir le portfolio" /></a>
+<a href="mailto:appix.web@gmail.com"><img src="https://img.shields.io/badge/CONTACTER-APPIX_STUDIO-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Contacter APPIX Studio" /></a>
+<a href="https://www.linkedin.com/in/zumra-gokhan/"><img src="https://img.shields.io/badge/LINKEDIN-ÉCHANGER-64FFBD?style=for-the-badge&labelColor=07111B" alt="LinkedIn" /></a>
 
-<sub><code>STATUS: CRÉATION EN COURS</code>　<code>BASE: FRANCE</code>　<code>MODE: CRÉATIVITÉ & DÉVELOPPEMENT</code></sub>
+<sub><code>STUDIO WEB INDÉPENDANT</code>　<code>FRANCE</code>　<code>HTML · CSS · JAVASCRIPT</code></sub>
 
 </div>
 
-## <img src="https://img.shields.io/badge/01-BIENVENUE-64FFBD?style=flat-square&labelColor=07111B" alt="01 Bienvenue" />
+## Bonjour, bienvenue chez APPIX Studio 👋
 
-Salut et bienvenue sur mon GitHub ! 👋
+Je conçois des sites web pour aider les indépendants, artisans et petites entreprises à présenter leur activité avec clarté et professionnalisme.
 
-Je suis **développeuse web indépendante et fondatrice d'APPIX Studio**.
+Mon approche : comprendre votre besoin, créer une interface cohérente avec votre image et réaliser un site agréable à consulter sur mobile comme sur ordinateur.
 
-J'aime transformer les idées en expériences web modernes, intuitives et soignées. Mon objectif : concevoir des sites qui mettent en valeur les projets, les activités et les personnes qui les font vivre.
+## Ce que je peux réaliser
 
-Je travaille notamment sur la création de :
+- **Site vitrine** — présenter votre activité, vos prestations et vos coordonnées.
+- **Refonte de site** — clarifier les contenus, moderniser l'interface et améliorer l'expérience mobile.
+- **Landing page** — mettre en avant une offre ou faciliter la prise de contact.
+- **Intégration front-end** — transformer une maquette ou une direction graphique en pages web responsive.
 
-- Sites vitrines
-- Landing pages
-- Boutiques e-commerce
-- Blogs et sites de contenu
-- Refonte et amélioration de sites web
+Chaque projet est cadré selon vos besoins, vos contenus et les fonctionnalités réellement nécessaires.
 
-Je suis toujours curieuse de découvrir de nouveaux projets et d'imaginer des solutions adaptées à chaque besoin.
+## Ma méthode
 
-> `while (curious) { imagine(); build(); learn(); improve(); }`
+1. **Échange et brief** — comprendre votre activité, vos clients et vos objectifs.
+2. **Structure et direction visuelle** — organiser les informations et définir l'apparence du site.
+3. **Intégration** — développer les pages et adapter l'affichage aux différents écrans.
+4. **Vérifications et livraison** — contrôler le rendu et préparer la mise en ligne selon le périmètre convenu.
 
-## <img src="https://img.shields.io/badge/02-APPIX_STUDIO-64FFBD?style=flat-square&labelColor=07111B" alt="02 APPIX Studio" />
-
-### Un studio web indépendant, une vision créative.
-
-**APPIX Studio** est mon projet entrepreneurial dédié à la création de sites web.
-
-J'accorde une importance particulière à :
-
-- **Design :** des interfaces modernes et cohérentes avec chaque identité.
-- **Expérience utilisateur :** une navigation claire et intuitive.
-- **Responsive design :** des sites adaptés aux mobiles, tablettes et ordinateurs.
-- **Développement :** des intégrations soignées et fonctionnelles.
-- **Visibilité :** une attention portée aux bonnes pratiques SEO.
-
-[Explorer le dépôt APPIX sur GitHub](https://github.com/yalumappix/APPIX)
-
-## <img src="https://img.shields.io/badge/03-MA_BOITE_À_OUTILS-64FFBD?style=flat-square&labelColor=07111B" alt="03 Ma boîte à outils" />
+## Technologies
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS et JavaScript" />
-
-<sub>Technologies utilisées dans mes projets et compétences en développement web.</sub>
-
 </div>
 
-## <img src="https://img.shields.io/badge/04-MES_PROJETS-64FFBD?style=flat-square&labelColor=07111B" alt="04 Mes projets" />
+HTML5 · CSS3 · JavaScript natif.
 
-Sur ce GitHub, tu trouveras différents projets qui illustrent mon travail, mes expérimentations et mon évolution.
+## Projets
 
-J'aime explorer de nouvelles idées, construire des interfaces et améliorer mes compétences au fil des réalisations.
+Le [portfolio APPIX Studio](https://github.com/appix-studio/portfolio) présente plusieurs travaux et concepts.
 
-Les projets de démonstration et concepts fictifs sont identifiés comme tels.
+- **Maison Veloria** et **Zorvék** : concepts de démonstration personnels, pas des commandes clients.
+- **APPIX** : projet du studio et expérimentation front-end.
+- **MG PIXEL**, **Bât Innov** et **Pierre Youdine** : projets réalisés dans le cadre de missions ; leur présentation publique dépend des autorisations nécessaires.
 
-- [APPIX — Projet de studio web](https://github.com/yalumappix/APPIX)
-- [APPIX Portfolio — Projets et réalisations](https://github.com/yalumappix/APPIX-portfolio)
+Les dépôts permettent de découvrir le travail de conception et d'intégration. Les projets de démonstration sont identifiés comme tels.
 
-## <img src="https://img.shields.io/badge/05-EN_CONTINU-64FFBD?style=flat-square&labelColor=07111B" alt="05 En continu" />
+## Me contacter
 
-- Développer APPIX Studio et faire évoluer son identité.
-- Concevoir des expériences web toujours plus abouties.
-- Approfondir mes connaissances en développement front-end.
-- Améliorer mes pratiques en design, UX/UI et référencement naturel.
-- Découvrir de nouvelles technologies et relever de nouveaux défis.
+Vous avez besoin d'un site vitrine ou souhaitez améliorer un site existant ?
 
-## <img src="https://img.shields.io/badge/06-COLLABORATION-64FFBD?style=flat-square&labelColor=07111B" alt="06 Collaboration" />
+- **E-mail :** [appix.web@gmail.com](mailto:appix.web@gmail.com)
+- **LinkedIn :** [Zumra Gokhan](https://www.linkedin.com/in/zumra-gokhan/)
+- **Instagram :** [@studioappix](https://www.instagram.com/studioappix/)
+- **Portfolio / code :** [appix-studio/portfolio](https://github.com/appix-studio/portfolio)
 
-Je crois qu'un bon projet commence par une bonne compréhension des besoins.
-
-Que tu sois entrepreneuse, entrepreneur, indépendante, indépendant, artisan ou responsable d'entreprise, je serais ravie d'échanger avec toi autour de ton projet web.
-
-L'idée est simple : construire ensemble une présence en ligne qui te ressemble.
-
-## <img src="https://img.shields.io/badge/07-CONTACT-64FFBD?style=flat-square&labelColor=07111B" alt="07 Contact" />
-
-Un projet, une idée ou une question ? Tu peux me retrouver ici :
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-Mes_projets-64FFBD?style=for-the-badge&labelColor=07111B)](https://github.com/yalumappix)
-[![Malt](https://img.shields.io/badge/MALT-Mon_profil-9B8CFF?style=for-the-badge&labelColor=07111B)](https://www.malt.fr/profile/zumragokhan?overview)
-[![Freelance.com](https://img.shields.io/badge/FREELANCE.COM-Mon_profil-64FFBD?style=for-the-badge&labelColor=07111B)](https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0)
-
-</div>
+Le site public [appixstudio.fr](https://appixstudio.fr) est en préparation ; en attendant, le portfolio et l'e-mail ci-dessus permettent de découvrir les projets et de prendre contact.
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:64FFBD,50:9B8CFF,100:64FFBD&section=footer" width="100%" alt="" />
-
-<sub><code>IMAGINÉ AVEC CURIOSITÉ · CONSTRUIT AVEC SOIN · YALUM / APPIX STUDIO ©</code></sub>
-
+<sub>APPIX STUDIO · IMAGINER, CONCEVOIR, DÉVELOPPER AVEC SOIN</sub>
 </div>
