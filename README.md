@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/appix-studio/appix-studio/main/assets/yalum-pixel-world.svg" width="100%" alt="APPIX Studio — création de sites web" />
+<img src="https://raw.githubusercontent.com/appix-studio/appix-studio/main/assets/yalum-pixel-world.svg" width="100%" alt="MG Pixel — création de sites web" />
 
 <p><strong>Des sites clairs, soignés et adaptés à votre activité.</strong></p>
 
 <a href="https://github.com/appix-studio/portfolio"><img src="https://img.shields.io/badge/VOIR-LE_PORTFOLIO-64FFBD?style=for-the-badge&labelColor=07111B" alt="Voir le portfolio" /></a>
-<a href="mailto:appix.web@gmail.com"><img src="https://img.shields.io/badge/CONTACTER-APPIX_STUDIO-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Contacter APPIX Studio" /></a>
+<a href="mailto:appix.web@gmail.com"><img src="https://img.shields.io/badge/CONTACTER-MG_PIXEL-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Contacter MG Pixel" /></a>
 <a href="https://www.linkedin.com/in/zumra-gokhan/"><img src="https://img.shields.io/badge/LINKEDIN-ÉCHANGER-64FFBD?style=for-the-badge&labelColor=07111B" alt="LinkedIn" /></a>
 
 <sub><code>STUDIO WEB INDÉPENDANT</code>　<code>FRANCE</code>　<code>HTML · CSS · JAVASCRIPT</code></sub>
 
 </div>
 
-## Bonjour, bienvenue chez APPIX Studio 👋
+## Bonjour, bienvenue chez MG Pixel 👋
 
 Je conçois des sites web pour aider les indépendants, artisans et petites entreprises à présenter leur activité avec clarté et professionnalisme.
 
@@ -44,7 +44,7 @@ HTML5 · CSS3 · JavaScript natif.
 
 ## Projets
 
-Le [portfolio APPIX Studio](https://github.com/appix-studio/portfolio) présente plusieurs travaux et concepts.
+Le [portfolio MG Pixel](https://github.com/appix-studio/portfolio) présente plusieurs travaux et concepts.
 
 - **Maison Veloria** et **Zorvék** : concepts de démonstration personnels, pas des commandes clients.
 - **APPIX** : projet du studio et expérimentation front-end.
@@ -66,5 +66,5 @@ Le site public [appixstudio.fr](https://appixstudio.fr) est en préparation ; en
 ---
 
 <div align="center">
-<sub>APPIX STUDIO · IMAGINER, CONCEVOIR, DÉVELOPPER AVEC SOIN</sub>
+<sub>MG Pixel · IMAGINER, CONCEVOIR, DÉVELOPPER AVEC SOIN</sub>
 </div>
